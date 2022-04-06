@@ -1,0 +1,78 @@
+
+version 1.8.2
+
+- Improved: Analog reality engine speed optimization
+- Added: Native Apple Silicon support
+
+
+version 1.8.1
+
+- Added: Main Input & Main Output Monitoring Bar
+- Improved: Multi Instance performance
+
+
+version 1.7.9
+
+- Fixed: Invalid license key error
+
+
+version 1.7.6
+
+- Fixed: Multi instance crash
+- Fixed: Invalid license key error
+- Added: Oversampling-Off option
+- Added: Check for Updates
+
+
+version 1.7.1
+
+- Fixed: Multiple bugs
+- Added: Show Knob Values in a Pop-Up Window.
+
+
+version 1.6.2
+
+- Improved: Real-Time GPU performance
+- Fixed: Multiple bugs
+- Improved: Stable Anti-Aliasing 8x Overclock engine for better delay compensation
+
+
+version 1.5.9
+
+- Improved: Real-Time CPU performance
+- Fixed: Logic Pro X crash
+- Fixed: Multiple bugs
+
+
+version 1.5.0
+
+- Fixed: Multiple bugs
+
+
+version 1.4.2
+
+- Improved: Real-Time CPU performance
+- Fixed: Phase Cancellation issues
+- Fixed: Multiple bugs
+
+
+version 1.3.3
+
+- Fixed: Automation issues
+
+
+version 1.1.0
+
+- Added: Anti-Aliasing engine with Oversampling feature
+- Added: Original volume bump remover switch
+- Improved: Real-Time CPU performance for Oversampling
+- Improved: High frequency curves on initialization
+- Improved: GUI performance
+- Fixed: Pop sound fx issue on the first initialization when analog switch is on
+- Fixed: AU validation error on Logic Pro X
+- Fixed: Crash in Pro Tools Ultimate
+
+
+version 1.0.0
+
+- Initial Release

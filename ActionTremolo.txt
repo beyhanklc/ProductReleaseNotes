@@ -1,0 +1,30 @@
+
+version 1.3.5
+
+- Improved: CPU Performance
+- Fixed: Multi instance crash
+- Fixed: Invalid license key error
+- Added: Check for Updates
+- Added: Native Apple Silicon support
+
+
+version 1.3.2
+
+- Improved: Real-Time CPU & GPU performance
+- Fixed: Multiple bugs
+- Fixed: Logic Pro X crash
+
+
+version 1.1.0
+
+- Added: Resizable GUI with Vectoral GUI elements
+- Added: Mono to Stereo support
+- Improved: GUI workflow enhancements
+- Improved: Real-Time CPU performance
+- Fixed: Multiple bugs
+- Fixed: Initial Preset Loading on Plugin Start-up
+
+
+version 1.0
+
+- Initial Release

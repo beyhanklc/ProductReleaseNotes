@@ -1,0 +1,29 @@
+
+version 1.3.2
+
+- Improved: Real-Time GPU performance
+- Added: Sustain Level & Hold Time Envelope control parameters
+- Added: Phase modulation system
+- Added: Room, Damping & Width Reverb control parameters
+- Added: Parametric Eq
+- Added: Preset Browser System
+- Added: AAX Support
+- Added: Scalable GUI
+- Added: Sample location control
+- Improved: Streaming engine speed & efficiency
+- Fixed: Expression (Tremolo) mode volume decrease
+- Fixed: Logic Pro X validation
+- Fixed: Logic Pro X crash
+
+
+version 1.0.5
+
+- Improved: Real-Time GPU performance
+- Improved: Real-Time CPU performance
+- Fixed: Logic Pro X crash
+- Fixed: Multiple bugs
+
+
+version 1.0
+
+- Initial Release

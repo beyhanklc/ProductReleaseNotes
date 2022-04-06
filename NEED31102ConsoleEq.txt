@@ -1,0 +1,65 @@
+
+version 1.7.9
+
+- Improved: Analog reality engine speed optimization
+- Added: Native Apple Silicon support
+
+
+version 1.7.7
+
+- Fixed: Invalid license key error
+
+
+version 1.7.6
+
+- Fixed: Multi instance crash
+- Fixed: Invalid license key error
+- Added: Oversampling-Off option
+- Added: Check for Updates
+
+
+version 1.7.1
+
+- Improved: Loading Time Speed
+- Fixed: Cubase crash while opening project
+- Fixed: Logic Pro X validation error
+
+
+version 1.6.4
+
+- Improved: Initialization check speed
+
+
+version 1.6.3
+
+- Improved: Real-Time CPU performance
+
+
+version 1.5.3
+
+- Improved: Real-Time CPU performance
+- Fixed: Logic Pro X crash
+- Fixed: Multiple bugs
+
+
+version 1.4.8
+
+- Fixed: Preamp setting memory
+- Fixed: AAX validation error
+
+
+version 1.2.6
+
+- Improved: Real-Time CPU performance
+- Fixed: Phase Cancellation issues
+- Fixed: Multiple bugs
+
+
+version 1.1.7
+
+- Fixed: Built-in Template errors
+
+
+version 1.0
+
+- Initial Release
