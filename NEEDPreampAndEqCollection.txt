@@ -1,4 +1,25 @@
 
+version 1.0.9
+
+- Add: New Menu & Preset Browser Design
+- Add: Direct access to the Product Manual
+- Add: Tooltip
+- Add: Enable OpenGL
+- Add: Undo & Redo
+- Add: Stereo Width control
+- Add: Even harmonics amount control (NEED 533 EQ)
+- Add: Clean mode (NEED 533 EQ)
+- Improved: DSP & UI Performance
+- Fix: Preamp signal distortion on some DAWs
+- Fix: Logic Pro Automation Read issue
+- Fix: So many decimal values on Apple Silicon Macs
+- Fix: Vertical Peak Meter behaviour (NEED 81)
+- Fix: LM Channel link issue (NEED 533 EQ)
+
+
+
+
+
 version 1.0.0
 
 - Initial release
