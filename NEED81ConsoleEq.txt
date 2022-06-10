@@ -11,7 +11,7 @@ version 1.0.9
 - Fix: Preamp signal distortion on some DAWs
 - Fix: Logic Pro Automation Read issue
 - Fix: So many decimal values on Apple Silicon Macs
-- Fix: Vertical Peak Meter behaviour (NEED 81)
+- Fix: Vertical Peak Meter behaviour
 
 
 

@@ -6,7 +6,7 @@ version 1.0.9
 - Add: Enable OpenGL
 - Add: Undo & Redo
 - Add: Stereo Width control
-- Add: Even harmonics amount control (NEED 533 EQ)
+- Add: Even harmonics amount control
 - Add: Clean mode
 - Improved: DSP & UI Performance
 - Fix: Preamp signal distortion on some DAWs
