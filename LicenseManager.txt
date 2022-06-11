@@ -1,4 +1,15 @@
 
+version 1.0.2
+
+- Fix: Credentials glitch
+- Fix: Newsletter Subscription Link
+- Improved: Graphics
+- Improved: Universal Binary for macOS Intel and Apple Silicon machines
+
+
+
+
+
 version 1.0.0
 
 - Initial Release
