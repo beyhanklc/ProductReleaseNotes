@@ -1,4 +1,10 @@
 
+version 1.8.6
+
+- Fix: Logic Pro & Studio One backward compatibility
+
+
+
 version 1.8.5
 
 - Add: New Menu & Preset Browser Design
