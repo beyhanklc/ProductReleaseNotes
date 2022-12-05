@@ -1,4 +1,25 @@
 
+version 1.4.0
+
+- Added: Native Apple Silicon Support
+- Added: Crush (Degrade Distortion) Effect
+- Added: Ensemble (Vintage Chorus) Effect
+- Added: Preset Dropdown List
+- Added: New Menu & Preset Browser Design
+- Added: Direct access to the Product Manual
+- Added: Tooltip
+- Added: Enable OpenGL
+- Added: Undo & Redo
+- Added: Stereo Width control
+- Added: Easy Sample Folder Management
+- Improved: Eq UI
+- Improved: DSP & UI Performance
+- Fix: Logic Pro Automation Read issue
+- Fix: So many decimal values on Apple Silicon Macs
+
+
+
+
 version 1.3.2
 
 - Improved: Real-Time GPU performance
