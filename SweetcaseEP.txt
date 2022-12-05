@@ -5,6 +5,7 @@ version 1.4.0
 - Added: Crush (Degrade Distortion) Effect
 - Added: Ensemble (Vintage Chorus) Effect
 - Added: Preset Dropdown List
+- Added: Draggable GUI Resizer to the right bottom corner
 - Added: New Menu & Preset Browser Design
 - Added: Direct access to the Product Manual
 - Added: Tooltip
