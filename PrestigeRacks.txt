@@ -1,4 +1,10 @@
 
+version 1.0.2
+
+- Fix: No Sound Output after some time
+
+
+
 
 version 1.0.0
 
