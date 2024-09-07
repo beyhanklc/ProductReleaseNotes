@@ -1,4 +1,16 @@
 
+
+version 1.5.0
+
+- Add: New GUI Design for NEED 533 EQ
+- Add: Tooltip for NEED 533 EQ
+- Improved: DSP & UI Performance for NEED 533 EQ
+
+
+
+
+
+
 version 1.1.2
 
 - Add: Native Apple Silicon support for AAX
