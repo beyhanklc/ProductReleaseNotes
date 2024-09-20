@@ -1,11 +1,18 @@
 
 
+version 1.5.2
+
+- Improved: DSP & UI Performance for NEED Preamps
+- fix: High Frequency drops above 48k sample rates for NEED Preamps
+
+
+
+
 version 1.5.0
 
 - Add: New GUI Design for NEED 533 EQ
 - Add: Tooltip for NEED 533 EQ
 - Improved: DSP & UI Performance for NEED 533 EQ
-
 
 
 

@@ -1,4 +1,12 @@
 
+version 1.5.2
+
+- Improved: DSP & UI Performance
+- fix: High Frequency drops above 48k sample rates
+
+
+
+
 version 1.1.2
 
 - Add: Native Apple Silicon support for AAX
