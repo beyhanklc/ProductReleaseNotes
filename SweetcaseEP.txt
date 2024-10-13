@@ -1,4 +1,15 @@
 
+
+version 1.5.0
+
+- Added: Expandable GUI for the Effects Page
+- Added: Zoom option for the Equalizer
+- Improved: DSP & UI Performance
+
+
+
+
+
 version 1.4.0
 
 - Added: Native Apple Silicon Support
