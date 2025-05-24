@@ -1,4 +1,13 @@
 
+version 1.8.9
+
+- Add: Save Preset Button
+- Add: Reset GUI Zoom Factor
+- Improved: Generic Menu Design
+
+
+
+
 version 1.8.8
 
 - Add: Native Apple Silicon support for AAX

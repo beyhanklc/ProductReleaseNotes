@@ -1,4 +1,14 @@
 
+version 1.2.4
+
+- Add: GUI Expand/Collapse feature
+- Add: Save Preset Button
+- Add: Reset GUI Zoom Factor
+- Improved: Generic Menu Design
+
+
+
+
 version 1.0.2
 
 - Fix: No Sound Output after some time

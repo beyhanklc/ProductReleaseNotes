@@ -1,4 +1,13 @@
 
+version 1.2.4
+
+- Add: Save Preset Button
+- Add: Reset GUI Zoom Factor
+- Improved: Generic Menu Design
+
+
+
+
 
 version 1.0.0
 

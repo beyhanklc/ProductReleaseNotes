@@ -1,4 +1,14 @@
 
+version 1.5.9
+
+- Add: GUI Expand feature with the Filter Display
+- Add: Save Preset Button
+- Add: Reset GUI Zoom Factor
+- Improved: Generic Menu Design
+
+
+
+
 
 version 1.5.2
 
