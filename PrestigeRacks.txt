@@ -9,6 +9,13 @@ version 1.2.4
 
 
 
+version 1.1.3
+
+- Improved: DSP & UI Performance
+
+
+
+
 version 1.0.2
 
 - Fix: No Sound Output after some time
