@@ -1,4 +1,19 @@
 
+version 2.0.0
+
+- Add: OpenGL Support
+- Add: Draggable GUI Resizer to the right bottom corner
+- Add: New Factory Presets under the "V2 Add-Ons" category
+- Add: Oversampling
+- Add: Undo & Redo
+- Add: Direct access to the Product Manual
+- Improved: UI Design with Higher Resolution Graphics
+- Improved: Generic Menu Design
+- Improved: DSP performance
+- Improved: Preset Browser
+
+
+
 version 1.3.5
 
 - Improved: CPU Performance

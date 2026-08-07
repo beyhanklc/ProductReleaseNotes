@@ -1,10 +1,17 @@
 
+version 2.0.0
+
+- Add: Numerical GUI resizing to the preferences menu
+- Add: New Factory Presets under the "V2 Add-Ons" category
+- Improved: DSP & UI performance
+
+
+
 version 1.5.9
 
 - Add: Save Preset Button
 - Add: Reset GUI Zoom Factor
 - Improved: Generic Menu Design
-
 
 
 
