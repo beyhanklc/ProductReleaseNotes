@@ -1,4 +1,9 @@
 
+version 1.0.2
+
+- Fix: Correct licensed product listing on the All Products page
+
+
 
 
 version 1.0.0
